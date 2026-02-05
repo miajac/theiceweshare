@@ -6,3 +6,5 @@
  the metadata for these images to the metadata csv file. The second
  file "glac_citation.py" creates an image citation for each image when
  prompted with the Digital File ID for a specific image.
+ These scripts are the base of images displayed on the website:
+ theiceweshare.com
